@@ -29,7 +29,7 @@ pip install -r requirements.txt
 1. Configure your ports in `ports.txt`
 2. Run the script:
 ```bash
-python main.py
+python serveotron.py
 ```
 
 3. Use the interactive menu to:
